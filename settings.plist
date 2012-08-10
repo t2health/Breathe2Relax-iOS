@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sections</key>
+	<array>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Key</key>
+					<string>visual</string>
+					<key>ReuseID</key>
+					<string>Visual</string>
+					<key>Selectable</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Show the breathing metronome</string>
+					<key>Key</key>
+					<string>showGauge</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Breath Metronome</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Show visual prompts</string>
+					<key>Key</key>
+					<string>visualPrompts</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Visual Prompts</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Visual Settings</string>
+		</dict>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Play audio prompts</string>
+					<key>Key</key>
+					<string>audioPrompts</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Audio Prompts</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Include breathing instructions</string>
+					<key>Key</key>
+					<string>audioInstructions</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Instructions</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Listen to relaxing background music while practicing breathing</string>
+					<key>Key</key>
+					<string>ambientMusicOn</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Play Music</string>
+				</dict>
+				<dict>
+					<key>Key</key>
+					<string>ambientMusic</string>
+					<key>ReuseID</key>
+					<string>Line</string>
+					<key>Selectable</key>
+					<true/>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Audio Settings</string>
+		</dict>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Tap to set inhale length</string>
+					<key>Key</key>
+					<string>breathSpanIn</string>
+					<key>ReuseID</key>
+					<string>Line</string>
+					<key>Selectable</key>
+					<true/>
+					<key>Title</key>
+					<string>Inhale Length</string>
+					<key>Type</key>
+					<string>String</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Tap to set exhale length</string>
+					<key>Key</key>
+					<string>breathSpanOut</string>
+					<key>ReuseID</key>
+					<string>Line</string>
+					<key>Selectable</key>
+					<true/>
+					<key>Title</key>
+					<string>Exhale Length</string>
+					<key>Type</key>
+					<string>String</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Number of cycles</string>
+					<key>Key</key>
+					<string>cycles</string>
+					<key>ReuseID</key>
+					<string>Cycle</string>
+					<key>Selectable</key>
+					<false/>
+					<key>start</key>
+					<integer>8</integer>
+					<key>Title</key>
+					<string>Number of cycles</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Cycle Settings</string>
+		</dict>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Track your stress before and after breathing</string>
+					<key>Key</key>
+					<string>trackOn</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Track Stress</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Stress Tracking Information</string>
+		</dict>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Reset all the guide popups in Breathe2Relax</string>
+					<key>Key</key>
+					<string>resetHelpPrompts</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Guide Prompts</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Help Information</string>
+		</dict>
+		<dict>
+			<key>Rows</key>
+			<array>
+				<dict>
+					<key>Description</key>
+					<string>Rate this application in iTunes</string>
+					<key>Key</key>
+					<string>rateApp</string>
+					<key>ReuseID</key>
+					<string>Line</string>
+					<key>Selectable</key>
+					<true/>
+					<key>Title</key>
+					<string>Rate Breathe2Relax</string>
+					<key>Type</key>
+					<string>String</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Send us comments, suggestions or criticisms</string>
+					<key>Key</key>
+					<string>sendFeedback</string>
+					<key>ReuseID</key>
+					<string>Line</string>
+					<key>Selectable</key>
+					<true/>
+					<key>Title</key>
+					<string>Provide Feedback</string>
+					<key>Type</key>
+					<string>String</string>
+				</dict>
+				<dict>
+					<key>Description</key>
+					<string>Send completely anonymous usage data</string>
+					<key>Key</key>
+					<string>resetHelpPrompts</string>
+					<key>ReuseID</key>
+					<string>Switch</string>
+					<key>Selectable</key>
+					<false/>
+					<key>Title</key>
+					<string>Anonymous data</string>
+				</dict>
+			</array>
+			<key>Title</key>
+			<string>Improve Breathe2Relax</string>
+		</dict>
+	</array>
+</dict>
+</plist>

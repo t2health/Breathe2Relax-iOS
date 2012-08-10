@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Visuals</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Rain Forest</string>
+			<key>description</key>
+			<string>Quiet Lush Forest</string>
+			<key>bundleName</key>
+			<string>rainforest</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>8</integer>
+			<key>overlayFile</key>
+			<string>overlaywhite.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>rainforestthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meadows</string>
+			<key>description</key>
+			<string>Mountain Meadows</string>
+			<key>bundleName</key>
+			<string>meadow</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>13</integer>
+			<key>overlayFile</key>
+			<string>overlaywhite.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>meadowthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cosmos</string>
+			<key>description</key>
+			<string>Cosmic Photos Courtesy NASA and (STSI)</string>
+			<key>bundleName</key>
+			<string>cosmos</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>14</integer>
+			<key>overlayFile</key>
+			<string>overlayblack.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>cosmosthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beaches</string>
+			<key>description</key>
+			<string>Beaches Courtesy NOAA</string>
+			<key>bundleName</key>
+			<string>beach</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>12</integer>
+			<key>overlayFile</key>
+			<string>overlaywhite.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>beachthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flowers</string>
+			<key>description</key>
+			<string>Flowers courtesy www.turbophoto.com</string>
+			<key>bundleName</key>
+			<string>flower</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>12</integer>
+			<key>overlayFile</key>
+			<string>overlayblack.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>flowerthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sunsets</string>
+			<key>description</key>
+			<string>Peaceful Sunsets Courtesy NOAA</string>
+			<key>bundleName</key>
+			<string>sunset</string>
+			<key>postFix</key>
+			<string>jpg</string>
+			<key>numberOfFrames</key>
+			<integer>18</integer>
+			<key>overlayFile</key>
+			<string>overlayblack.png</string>
+			<key>backgroundFile</key>
+			<string></string>
+			<key>thumbName</key>
+			<string>sunsetthumb.jpg</string>
+			<key>staticImage</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Analytics</key>
+	<dict>
+		<key>appKey</key>
+		<string>2S5BB9CBTDSTL68V613L</string>
+		<key>debugKey</key>
+		<string>TV9ZBZ5GCF539CAQAGMH</string>
+	</dict>
+	<key>Brightcove</key>
+	<dict>
+		<key>apikey</key>
+		<string>KqxnaC4wR_9Z7OoPadhidvvddOPPUIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>apikeyBad</key>
+		<string>Kqxnaxxx_9Z7OoPadhidvvddxxxIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>biologyOfBreathing</key>
+		<integer>932645258001</integer>
+		<key>bodyReactionToStress</key>
+		<integer>932799449001</integer>
+		<key>demo</key>
+		<integer>937057278001</integer>
+		<key>playlist</key>
+		<integer>938590563001</integer>
+	</dict>
+	<key>Comments</key>
+	<dict>
+		<key>exhaleBreath</key>
+		<string>Take a deep breath, sucking as much air as you can into  your lungs, pushing out your stomach.  Then when you begin to exhale, press and hold the button down.  Try to make this a slow long exhale by pushing your stomach out.  Release the button only when you start to inhale.</string>
+		<key>inhaleBreath</key>
+		<string>Let the air out of your lungs, pushing as much air as you can out of your lungs by tightening your stomach.  Then while inhaling, press and hold the button down.  Try to make this a slow deep breath by pushing your stomach out.  Release the button only when you start to exhale.</string>
+		<key>PostVASInfo</key>
+		<string>Use the slider below to rate your stress.  After this you can look at the results and see how breathing effects your stress.</string>
+		<key>PostVASTitle</key>
+		<string>How do you feel now?</string>
+		<key>PreVASInfo</key>
+		<string>Use the slider below to rate your stress.  You can do this again after the breathing exercise to keep track of how breathing affects your stress.</string>
+		<key>PreVASTitle</key>
+		<string>How do you feel?</string>
+	</dict>
+	<key>Feedback</key>
+	<dict>
+		<key>body</key>
+		<string></string>
+		<key>recipient</key>
+		<string>yourthoughts@tee2.org</string>
+		<key>subject</key>
+		<string>Breathe2Relax Feedback</string>
+	</dict>
+	<key>URLs</key>
+	<dict>
+		<key>biologyOfBreathing</key>
+		<string>http://www.youtube.com/v/JefAOKKW1sw</string>
+		<key>bodyReactionToStress</key>
+		<string>http://www.youtube.com/v/EFTdZ1q3KAc</string>
+		<key>demo</key>
+		<string>http://www.youtube.com/v/1IdKHi6JM1Q</string>
+		<key>reachablityCheckBC</key>
+		<string>api.brightcove.com</string>
+		<key>reachablityCheckYT</key>
+		<string>www.youtube.com</string>
+		<key>T2</key>
+		<string>http://t2health.org/</string>
+		<key>rateApp</key>
+		<string>http://itunes.apple.com/us/app/breathe2relax/id425720246?mt=8</string>
+	</dict>
+</dict>
+</plist>

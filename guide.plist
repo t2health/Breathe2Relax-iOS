@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GuideLocations</key>
+	<array>
+		<dict>
+			<key>detail</key>
+			<string>This is a quick guide to walk you through the different parts of &lt;strong&gt;Breathe2Relax&lt;/strong&gt;.  Just start at the top of the list.  Cancel if you just want to explore on your own.  Press &lt;strong&gt;Guide Me&lt;/strong&gt; to bring the guide back.</string>
+			<key>key</key>
+			<string>guideGuide</string>
+			<key>title</key>
+			<string>Quick Initial Guide</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>This is Breathe2Relax&apos;s main screen. From here you can watch a demonstration of diaphramatic breathing, learn about stress and its effects through reading or watching videos.  Most importantly, you can practice a breathing session.</string>
+			<key>key</key>
+			<string>guideRoot</string>
+			<key>title</key>
+			<string>Breathe2Relax Main Screen</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>Learn about diaphragmatic breathing. Watch videos and view the interactive body browser to learn more about the effects of stress on your body. </string>
+			<key>key</key>
+			<string>guideLearn</string>
+			<key>title</key>
+			<string>Learn About</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>As you breathe to relax you can set how much stress you feel before and after the breathing exercise and over time you should see how the breathing is helping you reduce stress.</string>
+			<key>key</key>
+			<string>guideResults</string>
+			<key>title</key>
+			<string>Results</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>About Page</string>
+			<key>key</key>
+			<string>guideAbout</string>
+			<key>title</key>
+			<string>About Center for Telehealth &amp;amp; Technology</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>You&apos;ll be guided through a deep breathing exercise. Before we begin, please use this stress tracker to quickly rate how stressed you are. You will be asked again to repeat your stress level after the breathing exercise.</string>
+			<key>key</key>
+			<string>guideVASPre</string>
+			<key>title</key>
+			<string>Before Breathing</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>Please use this stress tracker to quickly rate how stressed you are after the breathing session.</string>
+			<key>key</key>
+			<string>guideVASPost</string>
+			<key>title</key>
+			<string>After Breathing</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>This breathing exercise is safe for almost everybody. But if you experience any unpleasant sensations, if you have difficulty breathing or feeling dizzy, nervous or out of control. Then go back to breathing normally. Remember that the purpose of this exercise is to help you learn how to slow down and relax. You can shorten or lengthen the time of each breath to make it more comfortable for you. Press start when ready to begin.</string>
+			<key>key</key>
+			<string>guideBreatheStart</string>
+			<key>title</key>
+			<string>Before Starting Breathing Session</string>
+		</dict>
+		<dict>
+			<key>detail</key>
+			<string>If you are finished with the breathing session then press &lt;strong&gt;Proceed&lt;/strong&gt;. You will be presented with a stress tracker to record how you feel after the deep breathing session. Unless you skipped it before.</string>
+			<key>key</key>
+			<string>guideBreatheStop</string>
+			<key>title</key>
+			<string>Stopped Breathing Session</string>
+		</dict>
+	</array>
+</dict>
+</plist>

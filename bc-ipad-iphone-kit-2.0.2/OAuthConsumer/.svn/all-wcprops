@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer
+END
+OADataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OADataFetcher.h
+END
+OAToken_KeychainExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAToken_KeychainExtensions.h
+END
+OAuthConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAuthConsumer.h
+END
+OAToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAToken.h
+END
+libOAuth.a
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mobile/!svn/ver/1635/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/libOAuth.a
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OASignatureProviding.h
+END
+OAMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAMutableURLRequest.h
+END
+OAAsynchronousDataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAAsynchronousDataFetcher.h
+END
+NSURL+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/NSURL+Base.h
+END
+OARequestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OARequestParameter.h
+END
+OAConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAConsumer.h
+END
+NSString+URLEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/NSString+URLEncoding.h
+END
+OAServiceTicket.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAServiceTicket.h
+END
+NSMutableURLRequest+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/NSMutableURLRequest+Parameters.h
+END
+OAPlaintextSignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mobile/!svn/ver/1632/trunk/iphone/Breathe2Relax/bc-ipad-iphone-kit-2.0.2/OAuthConsumer/OAPlaintextSignatureProvider.h
+END

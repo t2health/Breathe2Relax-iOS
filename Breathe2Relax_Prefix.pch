@@ -1,0 +1,33 @@
+//
+// Prefix header for all source files of the 'iBreathe' target in the 'iBreathe' project
+//
+#define RANDOM_SEED() srandom(time(NULL))
+#define RANDOM_INT(__MIN__, __MAX__) ((__MIN__) + random() % ((__MAX__+1) - (__MIN__)))
+#define DAYINSEC (60*60*24)
+
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AudioToolbox/AudioToolbox.h>
+    #import <UIKit/UIKit.h>
+	#import <MediaPlayer/MediaPlayer.h>
+	#import <sqlite3.h>
+#endif
+
+typedef enum {
+	enAppPositionGuide = 0,
+	enAppPositionRoot,
+	enAppPositionLearn,
+	enAppPositionResults,
+	enAppPositionAbout,
+	enAppPositionVASPre,
+	enAppPositionVASPost,
+	enAppPositionBreathe,
+    enAppPositionSetup,
+    enAppPositionSetupScenes,
+    enAppPositionSetupMusic,
+    enAppPositionSetupInhale,
+    enAppPositionSetupExhale,
+    enAppPositionShowMe,
+    enAppPositionPersonalize
+} enAppPosition;
